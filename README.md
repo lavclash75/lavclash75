@@ -1,4 +1,7 @@
-<p align="center" align-items="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=lavclash75"/> <br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavclash75&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"  /></a> <br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavclash75&layout=compact&theme=tokyonight&hide_border=true" /></a> <br><br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lavclash75&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lavclash75&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+</p>
