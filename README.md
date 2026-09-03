@@ -1,7 +1,7 @@
 <p align="center">
-(https://raw.githubusercontent.com/lavclash75/lavclash75/output/activity-graph.svg)
+  <img align="center" src="https://komarev.com/ghpvc/?username=lavclash75"/> <br><br>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lavclash75&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github.com/lavclash75/lavclash75/blob/output/activity-graph.svg" alt="GitHub Activity Graph" width="100%" />
 </p>
