@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lavclash75&color=blueviolet&style=flat-square" alt="Profile Views" />
+(https://raw.githubusercontent.com/lavclash75/lavclash75/output/activity-graph.svg)
 </p>
 
 <p align="center">
